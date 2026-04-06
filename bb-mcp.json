@@ -1,0 +1,22 @@
+{
+    "version": "0.13.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.13.5/bb-mcp_0.13.5_windows_amd64.zip",
+            "bin": [
+                "bb-mcp.exe"
+            ],
+            "hash": "cea03a9dfc825c77579540dada60137e10370f004e5c56904bde347b1725f038"
+        },
+        "arm64": {
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.13.5/bb-mcp_0.13.5_windows_arm64.zip",
+            "bin": [
+                "bb-mcp.exe"
+            ],
+            "hash": "c8115b053a4fea791b2dc20530c07f67174400cc7260fcfe22983a2ab71ba528"
+        }
+    },
+    "homepage": "https://github.com/FabianSchurig/bitbucket-cli",
+    "license": "AGPL-3.0",
+    "description": "An MCP server for interacting with Bitbucket via AI agents."
+}

@@ -1,0 +1,22 @@
+{
+    "version": "0.13.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.13.5/bb-cli_0.13.5_windows_amd64.zip",
+            "bin": [
+                "bb-cli.exe"
+            ],
+            "hash": "067995855bd14a20ee3eda94c4c4e74c2fac05ba6f4267ef79e1c82eaeb8026b"
+        },
+        "arm64": {
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.13.5/bb-cli_0.13.5_windows_arm64.zip",
+            "bin": [
+                "bb-cli.exe"
+            ],
+            "hash": "e88673bea62998e1f86bca062af2d344002e78a0acc569341a0166912e92fada"
+        }
+    },
+    "homepage": "https://github.com/FabianSchurig/bitbucket-cli",
+    "license": "AGPL-3.0",
+    "description": "A CLI tool for interacting with Bitbucket."
+}

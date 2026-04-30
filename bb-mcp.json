@@ -1,19 +1,19 @@
 {
-    "version": "0.15.5",
+    "version": "0.15.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.15.5/bb-mcp_0.15.5_windows_amd64.zip",
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.15.6/bb-mcp_0.15.6_windows_amd64.zip",
             "bin": [
                 "bb-mcp.exe"
             ],
-            "hash": "5939e05b1ccfdb97a6463a2985c46fbec1100f5821944457056cd0b18234eb2b"
+            "hash": "ba61bfecfe48f108e226d2064fcf427bdeabb5b0bcf479448a5f20935cde762e"
         },
         "arm64": {
-            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.15.5/bb-mcp_0.15.5_windows_arm64.zip",
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.15.6/bb-mcp_0.15.6_windows_arm64.zip",
             "bin": [
                 "bb-mcp.exe"
             ],
-            "hash": "c1ab6ce50e40c3057ccbdf782b400605cae102949a740e6ef43c06e5f7068ade"
+            "hash": "6f9dccb5219f2e918ea80b761559627629cb366415a666386cafeb6b0712ad6e"
         }
     },
     "homepage": "https://github.com/FabianSchurig/bitbucket-cli",

@@ -1,19 +1,19 @@
 {
-    "version": "0.17.4",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.17.4/bb-cli_0.17.4_windows_amd64.zip",
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.18.0/bb-cli_0.18.0_windows_amd64.zip",
             "bin": [
                 "bb-cli.exe"
             ],
-            "hash": "9d9a908dede963c7a2a65c6e0ec3fe1b4e6bf4135c405fcb51373c866416aee1"
+            "hash": "94a0bf959ca1420200b9d89b9b95f38a1bea00d92fa1b5d9114278c0e3ebf1ad"
         },
         "arm64": {
-            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.17.4/bb-cli_0.17.4_windows_arm64.zip",
+            "url": "https://github.com/FabianSchurig/bitbucket-cli/releases/download/v0.18.0/bb-cli_0.18.0_windows_arm64.zip",
             "bin": [
                 "bb-cli.exe"
             ],
-            "hash": "18bde064e05b9d949217892b11dfdb100703e0203eeb9e107e7f93c73efde379"
+            "hash": "54f9f516476d09a7f9e3d14db5247fa1fa6c0d444c0b64cb56ceb08d89affd28"
         }
     },
     "homepage": "https://github.com/FabianSchurig/bitbucket-cli",
